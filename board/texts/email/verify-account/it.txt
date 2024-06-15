@@ -1,3 +1,0 @@
-<h1>Verifica email IntraOS</h1>
-
-<a href="https://os.intramind-srl.com/" target="_blank">Clicca qui per confermare il tuo account</a>

@@ -1,0 +1,3 @@
+<h1>Check IntraOS email</h1>
+
+<a href="https://os.intramind-srl.com/" target="_blank">Click here to confirm your account</a>

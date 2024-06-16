@@ -181,7 +181,7 @@
 			    													<p style="font-size: 14px; line-height: 170%;">
 																		<span style="font-size: 20px; line-height: 34px;">
 																			<strong>
-																				<span style="line-height: 34px; font-size: 20px;">%s %s❗</span>
+																				<span style="line-height: 34px; font-size: 20px;">${hello} ${username}❗</span>
 																			</strong>
 																		</span>
 																	</p>
@@ -196,7 +196,7 @@
 			      											<td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 100px 20px;font-family:'Open Sans',sans-serif;" align="left">
 																<div class="v-text-align" style="font-size: 14px; line-height: 170%; text-align: center; word-wrap: break-word;">
 			    													<p style="font-size: 14px; line-height: 170%;">
-																		<span style="font-size: 16px; line-height: 27.2px;">%s</span>
+																		<span style="font-size: 16px; line-height: 27.2px;">${intent}</span>
 																	</p>
 			  													</div>
 			      											</td>
@@ -208,11 +208,11 @@
 			    										<tr>
 			      											<td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;" align="left">
 																<div class="v-text-align" align="center">
-			    													<a href="https://os.intramind-srl.com/verify-user?confirmationCode=%s" target="_blank" class="v-button v-size-width" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #000000; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:50%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
+			    													<a href="https://os.intramind-srl.com/verify-user?confirmationCode=${confirmationCode}" target="_blank" class="v-button v-size-width" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #000000; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:50%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
 			    														<span style="display:block;padding:10px 20px;line-height:120%;">
 																			<span style="font-size: 16px; line-height: 19.2px;">
 																				<strong>
-																					<span style="line-height: 19.2px; font-size: 16px;">%s<br /></span>
+																					<span style="line-height: 19.2px; font-size: 16px;">${verifyButton}<br /></span>
 																				</strong>
 																			</span>
 																		</span>
@@ -228,7 +228,7 @@
 			      											<td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:20px 100px 60px;font-family:'Open Sans',sans-serif;" align="left">
 			  													<div class="v-text-align" style="font-size: 14px; line-height: 170%; text-align: center; word-wrap: break-word;">
 			    													<p style="font-size: 14px; line-height: 170%;">
-																		<span style="font-size: 16px; line-height: 27.2px;">%s</span>
+																		<span style="font-size: 16px; line-height: 27.2px;">${description}</span>
 																	</p>
 			  													</div>
 			      											</td>
@@ -253,10 +253,10 @@
 			      											<td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:60px 80px;font-family:'Open Sans',sans-serif;" align="left">
 			  													<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 170%; text-align: center; word-wrap: break-word;">
 			    													<p style="font-size: 14px; line-height: 170%;">
-																		👮 %s <a rel="noopener" href="%s" target="_blank">%s</a>
+																		👮 ${needHelp} <a rel="noopener" href="${discordLink}" target="_blank">${support}</a>
 																	</p>
 																	<p style="font-size: 14px; line-height: 170%;">
-																		📝 %s %s <a rel="noopener" href="https://g.page/r/CXLFoCcI51_9EB0/review" target="_blank">Google Business.</a>
+																		📝 ${feedback} ${feedbackCTA} <a rel="noopener" href="https://g.page/r/CXLFoCcI51_9EB0/review" target="_blank">Google Business.</a>
 																	</p>
 			  													</div>
 			      											</td>
@@ -357,7 +357,7 @@
 			    										<tr>
 			      											<td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:31px 50px 30px 10px;font-family:'Open Sans',sans-serif;" align="left">
 			  													<div class="v-text-align" style="font-size: 14px; line-height: 170%; text-align: right; word-wrap: break-word;">
-			    													<p style="font-size: 14px; line-height: 170%;">%s 😊</p>
+			    													<p style="font-size: 14px; line-height: 170%;">${news} 😊</p>
 			  													</div>
 			      											</td>
 			    										</tr>

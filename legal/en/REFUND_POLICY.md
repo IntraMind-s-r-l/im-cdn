@@ -1,5 +1,5 @@
 1. ## Overview
-   Thank you for purchasing our digital products and services from IntraMind S.R.L. We are committed to providing
+   Thank you for purchasing our digital products and services from IntraMind di Lorenzo Pellegrini. We are committed to providing
    high-quality AI-powered digital entertainment and online security solutions. This Refund Policy outlines the terms
    and conditions under which refunds may be issued for our digital products and subscription services.
 

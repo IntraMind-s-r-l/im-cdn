@@ -717,16 +717,7 @@ We retain personal data only for as long as necessary to fulfill the purposes fo
 
 ### 15.4 AI Safety and Content Moderation
 
-#### Content Safety Measures
-- **Harmful Content Detection**: AI systems to identify and prevent distribution of harmful content
-- **Misinformation Prevention**: Measures to reduce spread of false or misleading information
-- **Child Safety**: Special protections for content that could harm minors
-- **Violence and Extremism**: Detection and removal of content promoting violence or extremism
-- **Harassment Prevention**: AI tools to identify and address online harassment and bullying
-
 #### Human Oversight and Intervention
-- **Human-in-the-Loop**: Human review and approval for sensitive AI decisions
-- **Expert Review**: Subject matter expert evaluation of AI outputs in specialized domains
 - **Community Moderation**: User reporting and community-based content review
 - **Appeals Process**: Human review of contested AI moderation decisions
 - **Escalation Procedures**: Clear pathways for escalating AI safety concerns
@@ -763,52 +754,6 @@ We retain personal data only for as long as necessary to fulfill the purposes fo
 - **Third-Party Disclosure**: Detailed information about data sharing with third parties
 - **Authorized Agent**: Procedures for privacy requests submitted through authorized representatives
 - **Verification Procedures**: Identity verification for privacy rights requests
-
-#### Other State Privacy Laws
-- **Virginia Consumer Data Protection Act (VCDPA)**: Compliance with Virginia privacy requirements
-- **Colorado Privacy Act (CPA)**: Implementation of Colorado-specific privacy protections
-- **Sector-Specific Regulations**: FERPA for educational records, HIPAA for health information
-- **Federal Trade Commission (FTC)**: Compliance with federal unfair and deceptive practices standards
-
-### 16.3 Other Jurisdictions
-
-#### Canada (PIPEDA and Provincial Laws)
-- **Privacy Policy Requirements**: Clear and understandable privacy information
-- **Consent Requirements**: Valid consent for collection, use, and disclosure
-- **Data Breach Notification**: Reporting requirements for privacy breaches
-- **Privacy Officer**: Designated individual responsible for privacy compliance
-
-#### Australia (Privacy Act)
-- **Australian Privacy Principles (APPs)**: Compliance with 13 privacy principles
-- **Notifiable Data Breaches**: Breach notification to authorities and affected individuals
-- **Cross-Border Data Transfers**: Safeguards for international data transfers
-- **Privacy Commissioner**: Cooperation with Australian privacy authorities
-
-#### United Kingdom (UK GDPR and DPA 2018)
-- **Post-Brexit Compliance**: Continued GDPR-level protections under UK law
-- **Data Protection Officer**: UK-based DPO for UK data processing activities
-- **International Transfers**: UK adequacy decisions and transfer mechanisms
-- **Information Commissioner's Office (ICO)**: Cooperation with UK privacy regulator
-
-#### Asia-Pacific Region
-- **Japan (APPI)**: Personal Information Protection Act compliance
-- **South Korea (PIPA)**: Personal Information Protection Act requirements
-- **Singapore (PDPA)**: Personal Data Protection Act compliance
-- **India (DPDP)**: Digital Personal Data Protection Act compliance (when effective)
-
-### 16.4 Emerging Privacy Regulations
-
-#### Artificial Intelligence Regulations
-- **EU AI Act**: Compliance with European Union artificial intelligence regulations
-- **Algorithmic Accountability**: Transparency and fairness requirements for AI systems
-- **Automated Decision-Making**: Special protections for automated decision-making processes
-- **High-Risk AI Systems**: Enhanced requirements for AI systems in sensitive applications
-
-#### Sector-Specific Regulations
-- **Financial Services**: Compliance with financial privacy and security regulations
-- **Healthcare**: HIPAA and other health information privacy requirements
-- **Education**: FERPA, COPPA, and student privacy protections
-- **Telecommunications**: Industry-specific privacy and security requirements
 
 ## 17. Data Breach Response
 
@@ -922,102 +867,18 @@ We retain personal data only for as long as necessary to fulfill the purposes fo
 
 #### Primary Privacy Contact
 **Privacy Team**  
-Email: privacy@intramind.ai  
-Phone: +39 06 1234 5678  
-Address: IntraMind Srl, Via del Progresso 123, 00019 Tivoli Terme (RM), Italy  
+Email: support@intramind-srl.com  
+Phone: +39 349 276 3755
+Address: IntraMind, Via Cesare Augusto 81, 00011 Tivoli Terme (RM), Italy
 Business Hours: Monday-Friday, 9:00 AM - 6:00 PM CET
 
-#### Data Protection Officer
-**DPO Contact**  
-Email: dpo@intramind.ai  
-Phone: +39 06 1234 5679  
-Direct Mail: Data Protection Officer, IntraMind Srl, Via del Progresso 123, 00019 Tivoli Terme (RM), Italy
-
-#### Regional Representatives
-**European Union Representative**  
-Email: privacy-eu@intramind.ai  
-Address: IntraMind EU Representative, Via del Progresso 123, 00019 Tivoli Terme (RM), Italy
-
-**United States Representative**  
-Email: privacy-us@intramind.ai  
-Phone: +1 (555) 123-4567  
-Address: IntraMind US Representative, [To be updated when US operations commence]
-
-#### Legal and Compliance
-**Legal Department**  
-Email: legal@intramind.ai  
-Phone: +39 06 1234 5680  
-Address: Legal Department, IntraMind Srl, Via del Progresso 123, 00019 Tivoli Terme (RM), Italy
-
 ### 19.2 Privacy Request Submission
-
-#### Online Privacy Portal
-**Primary Method**: https://privacy.intramind.ai  
-- Secure, authenticated interface for privacy requests
-- Real-time tracking of request status
-- Downloadable reports and data exports
-- Identity verification and request management
 
 #### Email Submission Guidelines
 - **Subject Line**: Clearly indicate type of request (e.g., "GDPR Data Access Request")
 - **Identity Verification**: Include sufficient information to verify your identity
 - **Specific Information**: Clearly describe the nature and scope of your request
 - **Response Time**: Expect acknowledgment within 72 hours, full response within 30 days
-
-#### Postal Mail Instructions
-For users preferring postal communication:
-1. Address letter to Data Protection Officer at the address above
-2. Include copy of government-issued photo identification
-3. Clearly state the nature of your privacy request
-4. Allow additional processing time for postal verification
-
-### 19.3 Data Protection Authorities
-
-#### European Union - Primary Authority
-**Garante per la protezione dei dati personali (Italian Data Protection Authority)**  
-Address: Piazza di Monte Citorio, 121 - 00186 Roma, Italy  
-Phone: +39 06 69677 1  
-Fax: +39 06 69677 3785  
-Email: garante@gpdp.it  
-Website: https://www.garanteprivacy.it
-
-#### Other EU Data Protection Authorities
-Users may also contact the data protection authority in their country of residence:
-- **Germany**: Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI)
-- **France**: Commission Nationale de l'Informatique et des Libertés (CNIL)
-- **Spain**: Agencia Española de Protección de Datos (AEPD)
-- **Netherlands**: Autoriteit Persoonsgegevens (AP)
-
-#### United States Authorities
-**California Privacy Protection Agency (CPPA)**  
-Address: 2101 Arena Blvd, Sacramento, CA 95834  
-Phone: (916) 681-6559  
-Email: info@cppa.ca.gov  
-Website: https://cppa.ca.gov
-
-**Federal Trade Commission (FTC)**  
-Address: 600 Pennsylvania Avenue, NW, Washington, DC 20580  
-Phone: (202) 326-2222  
-Website: https://www.ftc.gov
-
-#### Other Jurisdictions
-**Canada - Office of the Privacy Commissioner**  
-Address: 30 Victoria Street, Gatineau, Quebec K1A 1H3  
-Phone: 1-800-282-1376  
-Email: info@priv.gc.ca  
-Website: https://www.priv.gc.ca
-
-**Australia - Office of the Australian Information Commissioner**  
-Address: GPO Box 5218, Sydney NSW 2001  
-Phone: 1300 363 992  
-Email: enquiries@oaic.gov.au  
-Website: https://www.oaic.gov.au
-
-**United Kingdom - Information Commissioner's Office**  
-Address: Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF  
-Phone: 0303 123 1113  
-Email: casework@ico.org.uk  
-Website: https://ico.org.uk
 
 ## 20. Definitions and Glossary
 
@@ -1052,10 +913,6 @@ Website: https://ico.org.uk
 **Automated Decision-Making**: Decision-making processes that are carried out entirely by automated means without human intervention.
 
 **Profiling**: Automated processing of personal data to evaluate certain personal aspects about individuals, particularly to analyze or predict performance, behavior, or preferences.
-
-**Training Data**: Information used to teach AI models how to make predictions or decisions.
-
-**Model**: The result of training an algorithm on training data, which can then be used to make predictions on new data.
 
 **Bias**: Systematic errors in AI systems that can result in unfair treatment of certain groups or individuals.
 
@@ -1101,11 +958,6 @@ Website: https://ico.org.uk
 
 ---
 
-**© 2025 IntraMind Srl. All rights reserved.**
+**© 2025 IntraMind di Lorenzo Pellegrini. All rights reserved.**
 
 This Privacy Policy represents our commitment to protecting your privacy while delivering innovative AI-powered services. We regularly review and update our practices to ensure continued compliance with evolving privacy regulations and to maintain your trust.
-
-For the most current version of this policy, please visit: https://intramind.ai/privacy
-
-Last Review Date: September 3, 2025  
-Next Scheduled Review: September 3, 2026

@@ -706,14 +706,7 @@ Conserviamo i dati personali solo per il tempo necessario a soddisfare le finali
 - **Processo di Appello**: Metodi per contestare o correggere le decisioni automatizzate
 - **Valutazione dell'Impatto**: Valutazione di come le decisioni automatizzate influenzano gli utenti
 
-### 15.3 Addestramento dell'IA e Utilizzo dei Dati
-
-#### Pratiche sui Dati di Addestramento
-- **Dati Sintetici**: Generazione di dati di addestramento artificiali per ridurre i rischi per la privacy
-- **Minimizzazione dei Dati**: Utilizzo solo dei dati necessari per scopi specifici di addestramento dell'IA
-- **Limiti di Conservazione**: Limiti di tempo per la conservazione dei dati utilizzati per l'addestramento dell'IA
-
-### 15.4 Sicurezza dell'IA e Moderazione dei Contenuti
+### 15.3 Sicurezza dell'IA e Moderazione dei Contenuti
 
 #### Supervisione e Intervento Umano
 - **Moderazione della Community**: Segnalazioni degli utenti e revisione dei contenuti basata sulla community

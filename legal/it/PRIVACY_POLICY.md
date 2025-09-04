@@ -172,7 +172,6 @@ Ai sensi del Regolamento Generale sulla Protezione dei Dati (GDPR), trattiamo i 
 ### 6.2 Applicazioni di IA e Machine Learning
 
 #### Addestramento e Miglioramento dei Modelli
-- Addestrare modelli di IA conversazionale utilizzando dati di interazione anonimizzati
 - Migliorare le capacità di elaborazione del linguaggio naturale su tutte le piattaforme
 - Sviluppare algoritmi di generazione di contenuti per gli strumenti dei creatori
 - Migliorare i sistemi di raccomandazione per contenuti educativi e social

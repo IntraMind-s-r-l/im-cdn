@@ -172,7 +172,6 @@ Under the General Data Protection Regulation (GDPR), we process your personal da
 ### 6.2 AI and Machine Learning Applications
 
 #### Model Training and Improvement
-- Train conversational AI models using anonymized interaction data
 - Improve natural language processing capabilities across all platforms
 - Develop content generation algorithms for creator tools
 - Enhance recommendation systems for educational and social content

@@ -697,7 +697,6 @@ Conserviamo i dati personali solo per il tempo necessario a soddisfare le finali
 #### Capacità e Limiti dei Modelli
 - **Documentazione Chiara**: Informazioni dettagliate su ciò che ogni modello di IA può e non può fare
 - **Metriche di Performance**: Tassi di accuratezza, modelli di errore e statistiche di affidabilità
-- **Fonti dei Dati di Addestramento**: Informazioni generali sui dati utilizzati per addestrare i modelli di IA
 - **Notifiche di Aggiornamento**: Informazioni sugli aggiornamenti dei modelli e sui cambiamenti di capacità
 - **Controllo delle Versioni**: Tracciamento e documentazione delle diverse versioni dei modelli
 

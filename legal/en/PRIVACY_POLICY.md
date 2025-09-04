@@ -697,7 +697,6 @@ We retain personal data only for as long as necessary to fulfill the purposes fo
 #### Model Capabilities and Limitations
 - **Clear Documentation**: Detailed information about what each AI model can and cannot do
 - **Performance Metrics**: Accuracy rates, error patterns, and reliability statistics
-- **Training Data Sources**: General information about data used to train AI models
 - **Update Notifications**: Information about model updates and capability changes
 - **Version Control**: Tracking and documentation of different model versions
 

@@ -706,14 +706,7 @@ We retain personal data only for as long as necessary to fulfill the purposes fo
 - **Appeal Process**: Methods for challenging or correcting automated decisions
 - **Impact Assessment**: Evaluation of how automated decisions affect users
 
-### 15.3 AI Training and Data Usage
-
-#### Training Data Practices
-- **Synthetic Data**: Generation of artificial training data to reduce privacy risks
-- **Data Minimization**: Using only necessary data for specific AI training purposes
-- **Retention Limits**: Time limits on retention of data used for AI training
-
-### 15.4 AI Safety and Content Moderation
+### 15.3 AI Safety and Content Moderation
 
 #### Human Oversight and Intervention
 - **Community Moderation**: User reporting and community-based content review

@@ -1,6 +1,6 @@
 ## 1. Introduction
 
-Welcome to the IntraMind AI Ecosystem ("IntraMind," "we," "us," or "our"). This Privacy Policy describes how IntraMind di Lorenzo Pellegrini, with its registered office at Via Cesare Augusto 81, 00011 Tivoli Terme (RM), Italy, collects, uses, shares, and protects your information across our comprehensive suite of AI-powered services.
+Welcome to the IntraMind AI Ecosystem ("IntraMind," "we," "us," or "our"). This Privacy Policy describes how IntraMind LLC, with its registered office at 8605 Santa Monica Blvd, West Hollywood, Los Angeles, CA - 90069 - United States, collects, uses, shares, and protects your information across our comprehensive suite of AI-powered services.
 
 **Our ecosystem includes:**
 - ChatBot Services (Telegram, Discord, Twitch, WhatsApp)
@@ -15,9 +15,8 @@ By using any of our services, you acknowledge that you have read, understood, an
 
 ## 2. Data Controller Information
 
-**Data Controller:** IntraMind di Lorenzo Pellegrini  
-**Registered Address:** Via Cesare Augusto 81, 00011 Tivoli Terme (RM), Italy  
-**Tax Code/VAT Number:** IT18029491000
+**Data Controller:** IntraMind LLC  
+**Registered Address:** 8605 Santa Monica Blvd, West Hollywood, Los Angeles, CA - 90069 - United States
 **Email:** support@intramind-srl.com
 **Phone:** +39 349 276 3755
 
@@ -104,6 +103,14 @@ Under the General Data Protection Regulation (GDPR), we process your personal da
 - **Content Metrics**: Video performance, engagement rates, trending topics
 - **Optimization Preferences**: Preferred content types, hashtag categories, posting schedules
 - **Revenue Data**: Monetization statistics, sponsorship information (if shared)
+
+#### Chat History & Admin Access
+- All conversations are stored securely.
+- Authorized administrators may view chat history for:
+	- Improving AI performance
+	- Investigating bugs or abuse
+	- Providing user support
+- Access is restricted to trusted team members.
 
 ### 5.2 Information Collected Automatically
 
@@ -949,6 +956,6 @@ Business Hours: Monday-Friday, 9:00 AM - 6:00 PM CET
 
 ---
 
-**© 2025 IntraMind di Lorenzo Pellegrini. All rights reserved.**
+**© 2025 LLC Pellegrini. All rights reserved.**
 
 This Privacy Policy represents our commitment to protecting your privacy while delivering innovative AI-powered services. We regularly review and update our practices to ensure continued compliance with evolving privacy regulations and to maintain your trust.

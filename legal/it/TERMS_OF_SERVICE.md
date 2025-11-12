@@ -1,4 +1,4 @@
-Questi Termini e Condizioni (l’“Accordo”) regolano il tuo utilizzo di tutte le pagine di questo sito web e di qualsiasi servizio nell’Ecosistema AI di IntraMind (l’“Ecosistema”) fornito da IntraMind Srl (la “Società”, “noi” o “ci”). Questi Termini rappresentano l’intero accordo tra IntraMind e te (l’“Abbonato” o “tu”).  
+Questi Termini e Condizioni (l’“Accordo”) regolano il tuo utilizzo di tutte le pagine di questo sito web e di qualsiasi servizio nell’Ecosistema AI di IntraMind (l’“Ecosistema”) fornito da IntraMind LLC (la “Società”, “noi” o “ci”). Questi Termini rappresentano l’intero accordo tra IntraMind e te (l’“Abbonato” o “tu”).  
 
 ## 1. Accettazione  
 Utilizzando l’Ecosistema, accetti di osservare integralmente questi Termini. Se non sei d’accordo con una qualsiasi disposizione, non utilizzare l’Ecosistema.  
@@ -64,9 +64,9 @@ Indennizzi e tieni indenne la Società da qualsiasi reclamo, danno o spesa (incl
 
 ## 17. Comunicazioni  
 Qualsiasi comunicazione richiesta o consentita da questo Accordo deve essere in forma scritta e inviata tramite posta raccomandata o corriere all’indirizzo:  
-IntraMind di Lorenzo Pellegrini  
-Via Cesare Augusto 81
-00011 Tivoli Terme (RM), Italia  
+IntraMind LLC  
+8605 Santa Monica Blvd
+90069 West Hollywood, Los Angeles, United States
 
 ## 18. Clausola di Salvaguardia  
 Se una qualsiasi disposizione di questo Accordo è ritenuta invalida o inapplicabile, quella parte verrà separata e il resto rimarrà in vigore.  

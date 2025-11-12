@@ -1,6 +1,5 @@
-
 1. ## Panoramica
-   Grazie per aver acquistato i nostri prodotti e servizi digitali da IntraMind di Lorenzo Pellegrini Ci impegniamo a fornire soluzioni
+   Grazie per aver acquistato i nostri prodotti e servizi digitali da IntraMind LLC Ci impegniamo a fornire soluzioni
    di intrattenimento digitale e sicurezza online di alta qualità basate sull'IA. La presente Politica di Rimborso
    descrive i termini e le condizioni in base ai quali possono essere emessi rimborsi per i nostri prodotti digitali e
    servizi in abbonamento.

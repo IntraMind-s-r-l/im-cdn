@@ -189,7 +189,7 @@
 
 	**Dati societari**:<br/>
 	IntraMind LLC<br/>
-	Sede legale: West Hollywood, Los Angeles
+	Sede legale: West Hollywood, Los Angeles, California, United States
 
 	La presente politica è conforme alle leggi italiane a tutela dei consumatori (Codice del Consumo), alle normative UE
 	e alle migliori prassi internazionali per i servizi digitali. Per i clienti al di fuori dell'UE, le leggi locali a

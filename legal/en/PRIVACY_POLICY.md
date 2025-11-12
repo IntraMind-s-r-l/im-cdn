@@ -959,6 +959,6 @@ Business Hours: Monday-Friday, 9:00 AM - 6:00 PM CET
 
 ---
 
-**© 2025 LLC Pellegrini. All rights reserved.**
+**© 2025 IntraMind LLC. All rights reserved.**
 
 This Privacy Policy represents our commitment to protecting your privacy while delivering innovative AI-powered services. We regularly review and update our practices to ensure continued compliance with evolving privacy regulations and to maintain your trust.

@@ -1,6 +1,6 @@
 ## 1. Introduzione
 
-Benvenuti nell'Ecosistema AI di IntraMind ("IntraMind," "noi," "ci," o "nostro"). La presente Informativa sulla Privacy descrive come IntraMind di Lorenzo Pellegrini, con sede legale in Via Cesare Augusto 81, 00011 Tivoli Terme (RM), Italia, raccoglie, utilizza, condivide e protegge le vostre informazioni attraverso la nostra suite completa di servizi basati sull'IA.
+Benvenuti nell'Ecosistema AI di IntraMind ("IntraMind," "noi," "ci," o "nostro"). La presente Informativa sulla Privacy descrive come IntraMind LLC, con sede legale in 8605 Santa Monica Blvd, West Hollywood, Los Angeles, CA - 90069 - United States, raccoglie, utilizza, condivide e protegge le vostre informazioni attraverso la nostra suite completa di servizi basati sull'IA.
 
 **Il nostro ecosistema include:**
 - Servizi ChatBot (Telegram, Discord, Twitch, WhatsApp)
@@ -15,10 +15,12 @@ Utilizzando uno qualsiasi dei nostri servizi, riconoscete di aver letto, compres
 
 ## 2. Informazioni sul Titolare del Trattamento
 
-**Titolare del Trattamento:** IntraMind di Lorenzo Pellegrini  
-**Sede Legale:** Via Cesare Augusto 81, 00011 Tivoli Terme (RM), Italia  
-**Codice Fiscale/Partita IVA:** IT18029491000
+**Titolare del Trattamento:** IntraMind LLC
+
+**Sede Legale:** 8605 Santa Monica Blvd, West Hollywood, Los Angeles, CA - 90069 - United States
+
 **Email:** support@intramind-srl.com
+
 **Telefono:** +39 349 276 3755
 
 ## 3. Ambito di Applicazione di Questa Informativa
@@ -104,6 +106,15 @@ Ai sensi del Regolamento Generale sulla Protezione dei Dati (GDPR), trattiamo i 
 - **Metriche dei Contenuti**: Performance dei video, tassi di coinvolgimento, argomenti di tendenza
 - **Preferenze di Ottimizzazione**: Tipi di contenuti preferiti, categorie di hashtag, orari di pubblicazione
 - **Dati sui Ricavi**: Statistiche di monetizzazione, informazioni sulle sponsorizzazioni (se condivise)
+
+#### Cronologia Chat & Accesso Amministratori
+- Tutte le conversazioni sono archiviate in modo sicuro.
+- Gli amministratori autorizzati possono visualizzare la cronologia delle chat per:
+	- Migliorare le prestazioni dell'IA
+	- Indagare su bug o abusi
+	- Fornire supporto agli utenti
+- L'accesso è limitato a membri del team fidati.
+
 
 ### 5.2 Informazioni Raccolte Automaticamente
 
@@ -948,6 +959,6 @@ Orario di Lavoro: Lunedì-Venerdì, 9:00 - 18:00 CET
 
 ---
 
-**© 2025 IntraMind di Lorenzo Pellegrini. Tutti i diritti riservati.**
+**© 2025 IntraMind LLC. Tutti i diritti riservati.**
 
 La presente Informativa sulla Privacy rappresenta il nostro impegno a proteggere la vostra privacy fornendo al contempo servizi innovativi basati sull'IA. Rivediamo e aggiorniamo regolarmente le nostre pratiche per garantire la conformità continua con le normative sulla privacy in evoluzione e per mantenere la vostra fiducia.

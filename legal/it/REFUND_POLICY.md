@@ -181,16 +181,15 @@
 	**Tempi di risposta**: Puntiamo a rispondere a tutte le richieste entro 2 giorni lavorativi
 
 	**Indirizzo postale**:<br/>
-	IntraMind<br/>
+	IntraMind LLC<br/>
 	All'attenzione: Assistenza Clienti<br/>
-	Via cesare augusto 81<br/>
-	00019 Tivoli Terme (RM)<br/>
-	Italia
+	8605 Santa Monica Blvd<br/>
+    90069 West Hollywood, Los Angeles<br/>
+	United States
 
 	**Dati societari**:<br/>
-	IntraMind<br/>
-	Partita IVA: IT18029491000<br/>
-	Sede legale: Tivoli Terme, Lazio, Italia
+	IntraMind LLC<br/>
+	Sede legale: West Hollywood, Los Angeles
 
 	La presente politica è conforme alle leggi italiane a tutela dei consumatori (Codice del Consumo), alle normative UE
 	e alle migliori prassi internazionali per i servizi digitali. Per i clienti al di fuori dell'UE, le leggi locali a

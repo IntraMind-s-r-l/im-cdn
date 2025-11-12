@@ -15,9 +15,12 @@ By using any of our services, you acknowledge that you have read, understood, an
 
 ## 2. Data Controller Information
 
-**Data Controller:** IntraMind LLC  
+**Data Controller:** IntraMind LLC
+
 **Registered Address:** 8605 Santa Monica Blvd, West Hollywood, Los Angeles, CA - 90069 - United States
+
 **Email:** support@intramind-srl.com
+
 **Phone:** +39 349 276 3755
 
 ## 3. Scope of This Policy

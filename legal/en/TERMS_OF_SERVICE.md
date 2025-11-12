@@ -1,4 +1,4 @@
-These Website Standard Terms and Conditions (the “Agreement”) govern your use of all pages on this website and any services in the IntraMind AI Ecosystem (the “Ecosystem”) provided by IntraMind di Lorenzo Pellegrini (the “Company,” “we,” or “us”). These Terms represent the entire agreement between IntraMind and you (the “Subscriber” or “you”).
+These Website Standard Terms and Conditions (the “Agreement”) govern your use of all pages on this website and any services in the IntraMind AI Ecosystem (the “Ecosystem”) provided by IntraMind LLC (the “Company,” “we,” or “us”). These Terms represent the entire agreement between IntraMind and you (the “Subscriber” or “you”).
 
 ## 1. Assent and Acceptance  
 By using the Ecosystem, you agree to comply with all of these Terms in full. If you do not agree with any provision, do not use the Ecosystem.
@@ -65,9 +65,9 @@ You indemnify and hold the Company harmless from any claims, damages, or expense
 ## 17. Notices  
 Any notices required or permitted by this Agreement must be in writing and delivered by certified mail or courier to the address below:
 
-IntraMind di Lorenzo Pellegrini
-Via Cesare Augusto 81
-00011 Tivoli Terme (RM), Italy  
+IntraMind LLC
+8605 Santa Monica Blvd
+90069 West Hollywood, Los Angeles, United States
 
 ## 18. Severability  
 If any provision of this Agreement is deemed invalid or unenforceable, that part will be severed and the remainder will remain in full force and effect.

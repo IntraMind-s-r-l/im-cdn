@@ -173,16 +173,15 @@
 	**Response Time**: We aim to respond to all inquiries within 2 business days
 
 	**Postal Address**:<br/>
-	IntraMind<br/>
+	IntraMind LLC<br/>
 	Attention: Customer Support<br/>
-	Via cesare augusto 81<br/>
-	00019 Tivoli Terme (RM)<br/>
-	Italy
+	8605 Santa Monica Blvd<br/>
+	90069 West Hollywood, Los Angeles<br/>
+	United States
 
 	**Company Registration**:<br/>
-	IntraMind<br/>
-	Italian VAT Number: IT18029491000<br/>
-	Registered Office: Tivoli Terme, Lazio, Italy
+	IntraMind LLC<br/>
+	Registered Office: West Hollywood, Los Angeles, California, United States
 
 This policy complies with Italian consumer protection laws (Codice del Consumo), EU regulations, and international best
 practices for digital services. For customers outside the EU, local consumer protection laws may provide additional
